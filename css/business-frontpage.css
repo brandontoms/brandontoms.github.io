@@ -12,6 +12,25 @@ body {
 
 .business-header {
     height: 400px;
+    background: url('/images/banner.png') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.business-header-sm {
+    height: 400px;
+    background: url('/images/banner.sm.png') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.business-header-xs {
+    height: 400px;
+    background: url('/images/banner.xs.png') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
