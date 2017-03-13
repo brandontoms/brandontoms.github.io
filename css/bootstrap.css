@@ -4505,7 +4505,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #ffffff;
-  background-color: none;
+  background-color: #000000;
 }
 .navbar-default .navbar-text {
   color: #c8c8c8;
@@ -4601,7 +4601,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
   color: #ffffff;
-  background-color: none;
+  background-color: #000000;
 }
 .navbar-inverse .navbar-text {
   color: #cccccc;
@@ -7109,7 +7109,7 @@ legend {
 }
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover {
-  background-color: none;
+  background-color: #000000;
   background-image: -webkit-linear-gradient(#020202, #101112 40%, #141618);
   background-image: -o-linear-gradient(#020202, #101112 40%, #141618);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#020202), color-stop(40%, #101112), to(#141618));
