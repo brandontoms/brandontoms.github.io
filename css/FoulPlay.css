@@ -22,6 +22,11 @@ body {
     -o-background-size: contain;
 }
 
+.evenly-spaced-boxes {
+    height: auto;
+    margin-bottom: 50px;
+}
+
 /* Customize the text color and shadow color and to optimize text legibility. */
 
 .tagline {
